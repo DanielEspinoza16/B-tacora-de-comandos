@@ -9,4 +9,8 @@
 | --- | --- | --- | 
 | cd | Permite movrerse entre directorios del sistema | cd ./mi_carpeta |
 | mkdir | Crear nueva carpeta | mkdir NuevaCarpeta |
-| mkdir | Crear nueva carpeta | mkdir NuevaCarpeta |
+| chmod | Asignar permisos | chmod Tipo de permiso Ruta_Archivo |
+| chown | Cambiar propietario | chown user filename(s) |
+| rmdir |  Eliminar directorio | rmdir NombreDirectorio |
+| rm |  Eliminar archivos | [code] rm [-opciones] [-d║s] archivo [/code] |
+
