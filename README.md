@@ -4,3 +4,9 @@
 - Sudo su: Permite ejecutar un progrma con permisos de otro usuario.
 - Whoami: Comando simple que permite ver desde cual usuario se esta utilizando el sistema.
 - More: Permite ver el comando ejecutado página por página, esto con el fin de poder leer facilmente comando usualmente largos.
+
+| Comando | Descripción | Ejemplo |
+| --- | --- | --- | 
+| cd | Permite movrerse entre directorios del sistema | cd ./mi_carpeta |
+| mkdir | Crear nueva carpeta | mkdir NuevaCarpeta |
+| mkdir | Crear nueva carpeta | mkdir NuevaCarpeta |
