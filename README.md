@@ -13,4 +13,10 @@
 | chown | Cambiar propietario | chown user filename(s) |
 | rmdir |  Eliminar directorio | rmdir NombreDirectorio |
 | rm |  Eliminar archivos | [code] rm [-opciones] [-d║s] archivo [/code] |
+| ls |  Ver el contenido del directorio | ls NombreDirectorio |
+| pwd |  Imprime el directorio de trabajo y muestra la ruta absoluta  | pwd |
+| cp |  Copia un archivo o directorio | cp archivoOrigen destino // cp  -r directorio nuevoDirectorio |
+| rm |  Eliminar archivo | rm NombreArchivo |
+| mv |  Mover archivos | mv archivo DestinoArchivo |
+| man |  Muestra el manual del comando solicitado  | man comando |
 
