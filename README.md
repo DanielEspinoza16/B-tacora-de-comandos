@@ -19,4 +19,18 @@
 | rm |  Eliminar archivo | rm NombreArchivo |
 | mv |  Mover archivos | mv archivo DestinoArchivo |
 | man |  Muestra el manual del comando solicitado  | man comando |
+| exit |  Salir | exit  |
+| touch |  Crear archivos vacios, modificar fechas de acceso  | touch NombreDelArchivo.txt |
+| sudo |  Permite actuar como super usuario | sudo apt install  |
+| unzip |  Descomprime un archivo | unzip file.zip  |
+| pacman |  acceder a gestores de paquetes en Arch linux y derivados | pacman -S gimp  |
+| echo |  Ver texto en la terminal | echo "hola mundo" |
+| cat |  Previzualizar un archivo | cat archiv.txt  |
+| ps |  ver procesos archivos shell | ps  |
+| grep |  busca lineas que coincida con una expresion  | grep "Linux" archivo.txt  |
+| neofetch |  Muestra informacion del sistema | neofetch  |
+| wget |  Descargar archivos de la web | wget LinkDelArchivo |
+
+
+
 
