@@ -30,7 +30,14 @@
 | grep |  busca lineas que coincida con una expresion  | grep "Linux" archivo.txt  |
 | neofetch |  Muestra informacion del sistema | neofetch  |
 | wget |  Descargar archivos de la web | wget LinkDelArchivo |
-
+| Find |  Busca archivos en los direcectorios | find [flags] [path] -name [expression]  |
+| useradd |  Agrega un usuario | useradd NombreUsuario passwd Contraseña  |
+| uname -r |  Mostrar version del kernel | uname -r  |
+| date |  Muestra la fecha del sistema  | date  |
+| df -h |  Muestra particiones montadas | df -h |
+| ls -lh |  Listar los permisos de directorios y archivos  | ls -lh  |
+| curl |  Hacer requests a paginas web  | nombre=Daniel curl -X GET -L link |
+| ifconfig | Ver ip y datos de red | ifconfig |
 
 
 
